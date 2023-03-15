@@ -18,3 +18,11 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+#search-box:focus {
+  width: 100%;
+}
+
+.country-list {
+  list-style: none;
+}
